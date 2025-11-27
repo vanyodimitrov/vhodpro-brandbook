@@ -1,0 +1,18 @@
+GitIgnore File for Simple HTML Projects
+
+Operating System Files
+
+.DS_Store
+Thumbs.db
+
+Build/Generated folders
+
+/dist
+/build
+
+IDE/Editor temporary files
+
+.vscode/
+.idea/
+*.swp
+*.bak
